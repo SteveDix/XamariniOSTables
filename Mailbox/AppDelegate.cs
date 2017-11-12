@@ -1,5 +1,7 @@
 ﻿using Foundation;
 using UIKit;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Push;
 
 namespace Mailbox
 {
@@ -20,6 +22,16 @@ namespace Mailbox
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
             // Test changes
+
+            MobileCenter.Start("3e9c3f19-43a1-41e4-84a1-9de10c34170a", typeof(Push));
+
+            // Newer version of Visual Studio for Mac and Visual Studio provide the
+            // ENABLE_TEST_CLOUD compiler directive in the Debug configuration,
+            // but not the Release configuration.
+#if ENABLE_TEST_CLOUD
+            Xamarin.Calabash.Start();
+#endif
+
             return true;
         }
 

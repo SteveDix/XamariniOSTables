@@ -16,3 +16,17 @@
 /Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.csproj.CoreCompileInputs.cache
 /Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.exe
 /Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.pdb
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.pdb
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.iOS.Bindings.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Push.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Push.iOS.Bindings.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.csproj.CoreCompileInputs.cache
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.pdb

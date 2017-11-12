@@ -1,0 +1,9 @@
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/Mailbox.UITests.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/Mailbox.UITests.pdb
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/nunit.framework.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/nunit.framework.xml
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/bin/Debug/Xamarin.UITest.xml
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/obj/Debug/Mailbox.UITests.csproj.CoreCompileInputs.cache
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/obj/Debug/Mailbox.UITests.dll
+/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/Mailbox.UITests/obj/Debug/Mailbox.UITests.pdb

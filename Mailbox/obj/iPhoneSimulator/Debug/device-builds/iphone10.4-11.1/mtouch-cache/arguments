@@ -1,9 +1,9 @@
 # Version: 11.2.0.0 (d15-4-xi: 12e80e01)
 # [first argument, ignore] # --cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.2.1.0/lib/mtouch/mtouch.exe \
-	/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/mtouch-cache \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/mtouch-cache \
 	--sim \
-	/Users/steven.dix/Training/Projects/Mailbox/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/Mailbox.app \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/Mailbox.app \
 	--executable \
 	Mailbox \
 	--debug \
@@ -19,8 +19,18 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/mtouch-symbols.list \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/mtouch-symbols.list \
 	--dsym=no \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Xamarin.TestCloud.Agent.0.21.2/lib/Xamarin.iOS/Calabash.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.iOS.Bindings.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.Push.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Push.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.Push.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Push.iOS.Bindings.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -31,6 +41,16 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Xamarin.TestCloud.Agent.0.21.2/lib/Xamarin.iOS/Calabash.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.iOS.Bindings.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.Push.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Push.dll \
+	-r \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/packages/Microsoft.Azure.Mobile.Push.0.17.1/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Push.iOS.Bindings.dll \
 	--target-framework \
 	'Xamarin.iOS,v1.0' \
-	/Users/steven.dix/Training/Projects/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.exe \
+	/Users/steven.dix/Documents/GitHub/XamariniOSTables/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.exe \

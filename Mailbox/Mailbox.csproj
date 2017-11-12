@@ -77,6 +77,9 @@
     <Reference Include="Microsoft.Azure.Mobile.Push.iOS.Bindings">
       <HintPath>packages\Microsoft.Azure.Mobile.Push.0.17.1\lib\Xamarin.iOS10\Microsoft.Azure.Mobile.Push.iOS.Bindings.dll</HintPath>
     </Reference>
+    <Reference Include="Calabash">
+      <HintPath>packages\Xamarin.TestCloud.Agent.0.21.2\lib\Xamarin.iOS\Calabash.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources\Images.xcassets\Logo.imageset\Contents.json" />
