@@ -1,0 +1,18 @@
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.pdb
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.csproj.CoreCompileInputs.cache
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.pdb
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Training/Xamarin/Xamarin.iOS/3. Fundamentals Of Table Views/Part 01 Resources/Completed/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/steven.dix/Training/Projects/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Training/Projects/Mailbox/bin/iPhoneSimulator/Debug/Mailbox.pdb
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.csproj.CoreCompileInputs.cache
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.exe
+/Users/steven.dix/Training/Projects/Mailbox/obj/iPhoneSimulator/Debug/Mailbox.pdb
