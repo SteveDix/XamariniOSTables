@@ -20,6 +20,7 @@ namespace Mailbox
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
             // Test changes
+            // Test changes again
             return true;
         }
 
